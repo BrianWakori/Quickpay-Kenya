@@ -1,2 +1,2 @@
-# Quickpay-Kenya
+# Quickpay
 Payroll made easy 
